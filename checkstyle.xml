@@ -7,7 +7,7 @@
     <module name="TreeWalker">
 	    
 	<module name="AbstractClassName">
-		<property name="format" value="^Abstract.+$"
+		<property name="format" value="^Abstract.+$"/>
 	</module>
 		
 	<module name="PackageName">
